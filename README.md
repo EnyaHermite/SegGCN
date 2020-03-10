@@ -13,7 +13,7 @@ In this repository, we release the code and trained models for segmentation.
 If you find our work useful in your research, please consider citing:
 
 ```
-@article{lei2019spherical,  
+@article{lei2020seggcn,  
   title={SegGCN: Efficient 3D Point Cloud Segmentation with Fuzzy Spherical Kernel},  
   author={Lei, Huan and Akhtar, Naveed and Mian, Ajmal},  
   journal={IEEE Conference on Computer Vision and Pattern Recognition},  
